@@ -1,5 +1,5 @@
 <h2 align="center"> Curso de Python 3 do Básico Ao Avançado (com projetos reais) - Udemy 💻 </h2>
-<h3 align="center"> Repository to share the learning of Python course at Udemy. 🎯</h3>
+<h3 align="center"> Repository to share the learning of Python course at Udemy. 🎯 </h3>
 
 [Course link](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
 
